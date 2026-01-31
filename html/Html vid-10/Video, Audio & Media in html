@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>video audio media</title>
+</head>
+<body>
+    <video src="cid.mp4" controls width="255" height="560" loop poster="rudra.jpg"></video>
+    <audio src="audio.mp3" controls autoplay muted></audio>
+    <svg height="100" width="100">
+        <circle cx="50" cy="50" r="40" stroke="Black" stroke-width="3" fill="red" />
+    </svg>
+    <img src="img.svg" alt="My Svg img">
+    <iframe src="https://www.codewithharry.com/" width="322" height="444"</iframe>
+    
+</body>
+</html>

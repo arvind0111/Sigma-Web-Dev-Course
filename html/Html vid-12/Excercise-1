@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Excercise</title>
+</head>
+
+<body bgcolor="white">
+    <center>
+        <h1>
+            <font color="darkred">🎬 HTML Video & Audio Gallery 🎧</font>
+        </h1>
+        <h2><font color="green">My videos</font></h2>
+    </center>
+
+    <table border="5px" cellpading="10" cellborder="5px" cellspacing="5" width="100" align="center">
+        <tr align="center">
+            <td>
+                <b>video 1</b>
+                <!-- <br><br> -->
+                <video width="250" controls
+                    src="https://videos.pexels.com/video-files/35670975/15116010_1440_2560_30fps.mp4"></video>
+
+            </td>
+
+
+            <td>
+                <b>video 1</b>
+                <!-- <br><br> -->
+                <video width="250" controls
+                    src="https://videos.pexels.com/video-files/35670975/15116010_1440_2560_30fps.mp4"></video>
+
+            </td>
+
+
+            <td>
+                <b>video 1</b>
+                <!-- <br><br> -->
+                <video width="250" controls
+                    src="https://videos.pexels.com/video-files/35670975/15116010_1440_2560_30fps.mp4"></video>
+
+            </td>
+        </tr>
+
+
+        <tr align="center">
+            <td>
+                <b>video 1</b>
+                <!-- <br><br> -->
+                <video width="250" controls
+                    src="https://videos.pexels.com/video-files/35670975/15116010_1440_2560_30fps.mp4"></video>
+
+            </td>
+
+
+            <td>
+                <b>video 1</b>
+                <!-- <br><br> -->
+                <video width="250" controls
+                    src="https://videos.pexels.com/video-files/35670975/15116010_1440_2560_30fps.mp4"></video>
+
+            </td>
+
+
+            <td>
+                <b>video 1</b>
+                <!-- <br><br> -->
+                <video width="250" controls
+                    src="https://videos.pexels.com/video-files/35670975/15116010_1440_2560_30fps.mp4"></video>
+
+            </td>
+        </tr>
+
+    </table>
+
+    <h2>
+        <center>
+        <font color="green">My Audios</font> 
+    </center>
+    </h2>
+
+
+    <table border="5px" cellpading="10" cellborder="5px" cellspacing="5" width="100" align="center">
+
+        <tr align="center">
+            <td>
+                <b>Audio 1</b>
+                <audio controls>
+                    <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+                </audio>
+            </td>
+
+            <td>
+                <b>Audio 1</b>
+                <audio controls>
+                    <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+                </audio>
+            </td>
+            
+            <td>
+                <b>Audio 1</b>
+                <audio controls>
+                    <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+                </audio>
+            </td>
+
+        </tr>
+
+        <tr align="center">
+            <td>
+                <b>Audio 1</b>
+                <audio controls>
+                    <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+                </audio>
+            </td>
+
+            <td>
+                <b>Audio 1</b>
+                <audio controls>
+                    <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+                </audio>
+            </td>
+
+            <td>
+                <b>Audio 1</b>
+                <audio controls>
+                    <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+                </audio>
+            </td>
+
+        </tr>
+
+    </table>
+    <!-- <ol>
+        <li>
+            <b>Audio 1</b>
+            <audio controls>
+                <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+            </audio>
+        </li>
+        <li>
+            <b>Audio 1</b>
+            <audio controls>
+                <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+            </audio>
+        </li>
+        <li>
+            <b>Audio 1</b>
+            <audio controls>
+                <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+            </audio>
+        </li>
+        <li>
+            <b>Audio 1</b>
+            <audio controls>
+                <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+            </audio>
+        </li>
+        <li>
+            <b>Audio 1</b>
+            <audio controls>
+                <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+            </audio>
+        </li>
+        <li>
+            <b>Audio 1</b>
+            <audio controls>
+                <source src="https://cdn.pixabay.com/audio/2023/10/20/audio_3b343a8aed.mp3">
+            </audio>
+        </li>
+
+        </ol> -->
+
+</html>

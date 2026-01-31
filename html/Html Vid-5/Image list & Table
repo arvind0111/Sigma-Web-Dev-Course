@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Images</title>
+</head>
+<body>
+    <img src="Image.png" style="width: 300px; height: 200px;" alt="Train Image">
+
+    <table>
+        <caption>Employee Details</caption>
+
+        <thead>
+        
+            header
+        </thead>
+        <tfoot>
+            footer
+        </tfoot>
+        <tr>
+            <th>Name</th>
+            <th>Designation</th>
+            <th>Fav Language</th>
+        </tr>
+        <tr>
+            <td>Rudra</td>
+            <td>Programmer</td>
+            <td>Javascript</td>
+       </tr>    
+       <tr>
+            <td colspan="2">Hemnat</td>
+            <td rowspan="2">Python</td>
+       </tr>  
+       <tr>
+            <td colspan="2">Hemant</td>
+            
+      </tr>
+    </table>
+
+    <ul type="circle">
+        <li>Rudra</li>
+        <li>Hemant</li>
+        <li>Sumit</li>
+        
+    </ul>
+    <ol type="I">
+        <li>Rudra</li>
+        <li>Hemant</li>
+        <li>Sumit</li>
+
+    </ol>
+
+    
+</body>
+</html>
